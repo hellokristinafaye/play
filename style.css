@@ -40,4 +40,12 @@ main {
 }
 .article {
     background: white;
+    padding: 15px;
+}
+main h2 {
+    text-align: center;
+}
+main h2, h3 {
+    font-family: Fascinate, serif;
+    font-style: italic;
 }
