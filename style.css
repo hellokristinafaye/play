@@ -1,4 +1,9 @@
 body {
     background: rgb(204, 199, 199);
 }
-header
+header {
+    text-align: center;
+    font-family: Fascinate, serif;
+    font-style: italic;
+    color: white;
+}
