@@ -26,3 +26,6 @@ header {
 .search .input-box, .search-btn {
     font-family: "PT Sans Narrow", sans-serif;
 }
+.input-box {
+    padding: 10px 60px 10px 5px;
+}
