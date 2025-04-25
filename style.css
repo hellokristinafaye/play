@@ -35,3 +35,9 @@ header {
     padding: 10px 45px;
     cursor: pointer;
 }
+main {
+    display: flex;
+}
+.article {
+    background: white;
+}
