@@ -41,6 +41,8 @@ main {
 .article {
     background: white;
     padding: 15px;
+    flex-basis: 74%;
+    margin: 15px 15px 15px 0;
 }
 main h2 {
     text-align: center;
