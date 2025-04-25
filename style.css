@@ -10,5 +10,6 @@ header {
 .link {
     text-decoration: none;
     font-family: "PT Sans Narrow";
+    font-weight: 30;
     color: black;
 }
