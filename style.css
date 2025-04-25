@@ -1,6 +1,10 @@
 body {
     background: rgb(204, 199, 199);
 }
+.container {
+    width: 80%;
+    margin: auto;
+}
 header {
     text-align: center;
     font-family: Fascinate, serif;
@@ -15,5 +19,7 @@ header {
 }
 .nav-bar {
     background: rgb(30, 228, 246);
-
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
