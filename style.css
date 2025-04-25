@@ -49,3 +49,6 @@ main h2, h3 {
     font-family: Fascinate, serif;
     font-style: italic;
 }
+main p {
+    font-family: "PT Sans Narrow", sans-serif;
+}
