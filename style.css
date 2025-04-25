@@ -23,3 +23,6 @@ header {
     justify-content: space-around;
     align-items: center;
 }
+.search .input-box, .search-btn {
+    font-family: "PT Sans Narrow", sans-serif;
+}
